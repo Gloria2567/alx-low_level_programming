@@ -2,9 +2,10 @@
 #include <stdio.h>
 
 /**
- * print_array - prints n elements of an array o
+ * print_array - prints n elements of an array o * f integers
  * @a: array
  * @n: number of elements
+ *
  * Return: nothing
  */
 void print_array(int *a, int n)
